@@ -12,7 +12,7 @@
     - 3.scaling.ipynb # 大规模处理的技巧
     - 4.simulation.ipynb # 样本总体参数
 - ./papers/ # 本教程提到的文章
-- ./slides/ # 课程幻灯片
+- ./slides/slide.pdf # 课程幻灯片
 - ./README.md # [本说明]
 ```
 
