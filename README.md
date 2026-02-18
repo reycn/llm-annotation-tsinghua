@@ -2,6 +2,8 @@
 
 # 大语言模型数据标注
 使用大语言模型进行大规模数据标注的教程材料,包括课程幻灯片, 提及的文章和实验代码.  
+
+[查看中文幻灯片](./slides/slide.pdf) | [[Slide in English]](./slides/slide.pdf)
 ![img](./misc/simulation.png)
 
 # 仓库结构
